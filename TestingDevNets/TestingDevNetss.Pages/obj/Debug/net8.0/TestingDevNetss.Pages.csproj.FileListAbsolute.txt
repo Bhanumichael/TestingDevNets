@@ -1,0 +1,11 @@
+D:\January2024\GIT_TestingDevNets\TestingDevNets\TestingDevNetss.Pages\bin\Debug\net8.0\TestingDevNetss.Pages.deps.json
+D:\January2024\GIT_TestingDevNets\TestingDevNets\TestingDevNetss.Pages\bin\Debug\net8.0\TestingDevNetss.Pages.dll
+D:\January2024\GIT_TestingDevNets\TestingDevNets\TestingDevNetss.Pages\bin\Debug\net8.0\TestingDevNetss.Pages.pdb
+D:\January2024\GIT_TestingDevNets\TestingDevNets\TestingDevNetss.Pages\obj\Debug\net8.0\TestingDevNetss.Pages.GeneratedMSBuildEditorConfig.editorconfig
+D:\January2024\GIT_TestingDevNets\TestingDevNets\TestingDevNetss.Pages\obj\Debug\net8.0\TestingDevNetss.Pages.AssemblyInfoInputs.cache
+D:\January2024\GIT_TestingDevNets\TestingDevNets\TestingDevNetss.Pages\obj\Debug\net8.0\TestingDevNetss.Pages.AssemblyInfo.cs
+D:\January2024\GIT_TestingDevNets\TestingDevNets\TestingDevNetss.Pages\obj\Debug\net8.0\TestingDevNetss.Pages.csproj.CoreCompileInputs.cache
+D:\January2024\GIT_TestingDevNets\TestingDevNets\TestingDevNetss.Pages\obj\Debug\net8.0\TestingDevNetss.Pages.dll
+D:\January2024\GIT_TestingDevNets\TestingDevNets\TestingDevNetss.Pages\obj\Debug\net8.0\refint\TestingDevNetss.Pages.dll
+D:\January2024\GIT_TestingDevNets\TestingDevNets\TestingDevNetss.Pages\obj\Debug\net8.0\TestingDevNetss.Pages.pdb
+D:\January2024\GIT_TestingDevNets\TestingDevNets\TestingDevNetss.Pages\obj\Debug\net8.0\ref\TestingDevNetss.Pages.dll
